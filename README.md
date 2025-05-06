@@ -1,5 +1,3 @@
-# oracle-certification-guides
-Study guides and resources for Oracle certifications
 # Oracle Certification Guides
 
 Welcome to the **Oracle Certification Guides** repository, a comprehensive resource created to help IT professionals prepare for Oracle certifications. Whether you're pursuing Oracle Database SQL, Oracle DBA, or other Oracle certifications, this repository has everything you need to succeed.
